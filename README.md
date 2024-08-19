@@ -1,4 +1,4 @@
-# React Razorpay
+# React Razorpay Integration
 
 Integrate Razorpay Payment gateway in your react application.
 

@@ -1,6 +1,6 @@
 {
   "name": "react-razorpay-integration",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Integrate Razorpay Payment gateway in your react application.",
   "main": "dist/index.js",
   "scripts": {
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brok0ders/react-razorpay-integration"
+    "url": "https://github.com/mukeshpandey9/react-razorpay-integration"
   },
   "devDependencies": {
     "@types/react": "^17.0.18",
     "typescript": "^4.3.5"
   },
   "keywords": [
-    "react-razorpay-integration-integration",
+    "react-razorpay-integration",
     "razorpay",
     "razorpay payments",
     "react razorpay"
